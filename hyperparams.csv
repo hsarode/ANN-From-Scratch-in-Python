@@ -1,0 +1,2 @@
+no_hidden_layers,no_neurons_hidden_layer_0,activation_function_0,no_neurons_hidden_layer_1,activation_function_1,no_neurons_hidden_layer_2,activation_function_2,no_neurons_hidden_layer_3,activation_function_3,no_neurons_hidden_layer_4,activation_function_4,output_activation_function,learning_rate,no_epochs,accuracy,time
+2.0,5.0,sigmoid,10.0,relu,,,,,,,relu,0.01,3000.0,0.5553935860058309,0.07143259048461914
